@@ -1,0 +1,29 @@
+{
+  "name": "moon-gray-light-plus-color-theme",
+  "displayName": "moon-gray-light-plus-color-theme",
+  "description": "gray light theme with beautiful colores",
+  "publisher": "moondevaa",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29"
+  },
+  "icon": "moon.jpg", 
+  "theme": "light",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "contributes": {
+    "themes": [
+      {
+        "label": "gray light moon plus",
+        "uiTheme": "vs",
+        "path": "./themes/gray light moon plus-color-theme.json"
+      }
+    ]
+  }
+}
