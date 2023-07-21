@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dark Plus Moon Light Theme
+# moon gray light plus
 
 A dark theme with attratice colores in gray background for Visual Studio Code.
 </div>
