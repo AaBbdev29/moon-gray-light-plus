@@ -8,7 +8,7 @@ A dark theme with attratice colores in gray background for Visual Studio Code.
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `moon gray light plus`, choose "dark plus moon light" by moondevaa
+2. Search for `moon gray light plus`, choose "moon gray light plus" by moondevaa
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Color Theme > ""moon gray light plus"")
 #enjoy coding,.
